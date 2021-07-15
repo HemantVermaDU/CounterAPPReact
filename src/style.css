@@ -1,0 +1,25 @@
+h1{
+    color:greenyellow;
+}
+
+body{
+    background:#833ab4;
+    text-align:center;
+    background: -webkit-linear-gradient(to right,#54c409,#6dd5fa);
+    background: linear-gradient(to right,#54c409,#6dd5fa);
+    color: #fff;
+}
+button{
+    padding: 10px 25px;
+    margin: 5px;
+    background: #2980b9;
+    border-radius: 3px; 
+    color:#fff;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+}
+.score{
+    color: red;
+    font-size: 50px;
+}
